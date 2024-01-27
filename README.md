@@ -1,2 +1,4 @@
 # tommycolor
-tommy is a vscode dark color theme for pro coders
+tommycolor is a vscode dark color theme for pro coders
+
+![poster][tommycolor_poster.png]
