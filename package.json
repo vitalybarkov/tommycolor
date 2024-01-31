@@ -2,7 +2,7 @@
   "name": "tommycolor",
   "displayName": "tommycolor",
   "description": "tommycolor is a vscode dark color theme for pro coders",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "publisher": "TommyStore",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "tommy dark color"
   ],
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
