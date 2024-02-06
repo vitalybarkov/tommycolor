@@ -15,9 +15,9 @@
 				"punctuation",
 				"meta.brace",
 				"storage.modifier",
-				"entity.other.attribute-name.html",
 				"keyword.operator.class.php",
-				"keyword.other.rust"
+				"keyword.other.rust",
+				"support.type.property-name.media.css"
 			],
 			"settings": {
 				"foreground": "#6B7985"
@@ -28,7 +28,6 @@
 			"scope": [
 				"variable",
 				"entity.name.variable",
-				"entity.name.tag",
 				"constant.other",
 				"meta.try.body",
 				"source.go",
@@ -39,10 +38,25 @@
 				"meta.member",
 				"source.ignore",
 				"source.sql",
-				"source.dart"
+				"source.dart",
+				"entity.other.attribute-name.class",
+				"entity.other.attribute-name.id",
+				"entity.other.attribute-name",
+				"support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#BEC9D0"
+			}
+		},
+		{
+			"name": "bright_whites",
+			"scope": [
+				"text.html.derivative",
+				"punctuation.definition.entity.html",
+				"text.html"
+			],
+			"settings": {
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -56,8 +70,8 @@
 				"storage.modifier.import",
 				"entity.name.module",
 				"entity.name.package",
-				"text.html.derivative",
-				"punctuation.definition.entity.html"
+				"punctuation.definition.entity.html",
+				"constant.other.color.rgb-value.hex.css"
 			],
 			"settings": {
 				"foreground": "#9D9E86"
@@ -70,9 +84,9 @@
 				"entity.name.type",
 				"storage.type",
 				"keyword.type",
-				"entity.other.attribute-name.class.css",
 				"keyword.struct",
-				"support.class.dart"
+				"support.class.dart",
+				"entity.name.tag"
 			],
 			"settings": {
 				"foreground": "#37D7B3"
@@ -87,7 +101,8 @@
 				"meta.function",
 				"support.function.go",
 				"storage.type.function.arrow",
-				"support.function"
+				"support.function",
+				"entity.other.attribute-name.pseudo-class.css"
 			],
 			"settings": {
 				"foreground": "#3F8BE2"
