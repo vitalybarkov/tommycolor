@@ -24,6 +24,16 @@
 			}
 		},
 		{
+			"name": "bright_grays",
+			"scope": [
+				"entity.other.attribute-name",
+				"support.type.property-name"
+			],
+			"settings": {
+				"foreground": "#bec9d0"
+			}
+		},
+		{
 			"name": "whites",
 			"scope": [
 				"variable",
@@ -40,9 +50,7 @@
 				"source.sql",
 				"source.dart",
 				"entity.other.attribute-name.class",
-				"entity.other.attribute-name.id",
-				"entity.other.attribute-name",
-				"support.type.property-name"
+				"entity.other.attribute-name.id"
 			],
 			"settings": {
 				"foreground": "#ccd5da"
