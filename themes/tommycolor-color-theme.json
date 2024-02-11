@@ -37,6 +37,7 @@
 			"name": "whites",
 			"scope": [
 				"variable",
+				"entity.name.type.delegate",
 				"entity.name.variable",
 				"constant.other",
 				"meta.try.body",
@@ -119,6 +120,10 @@
 		{
 			"name": "violets",
 			"scope": [
+				"storage.type.enum",
+				"storage.type.struct",
+				"storage.type.delegate",
+				"storage.type.record",
 				"storage.type.class",
 				"storage.type.interface",
 				"storage.type.namespace",
