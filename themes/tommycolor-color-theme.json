@@ -2,7 +2,9 @@
 	"name": "tommycolor",
 	"colors": {
 		"editor.background": "#24282c",
-		"editor.foreground": "#eeffff"
+		"editor.foreground": "#eeffff",
+		"editor.findMatchBorder": "#ffb52dc4",
+		"editor.findMatchHighlightBorder": "#ffb52dc4",
 	},
 	"tokenColors": [
 		{
