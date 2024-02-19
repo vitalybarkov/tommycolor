@@ -82,7 +82,8 @@
 				"entity.name.module",
 				"entity.name.package",
 				"punctuation.definition.entity.html",
-				"constant.other.color.rgb-value.hex.css"
+				"constant.other.color.rgb-value.hex.css",
+				"source.dockerfile"
 			],
 			"settings": {
 				"foreground": "#9D9E86"
