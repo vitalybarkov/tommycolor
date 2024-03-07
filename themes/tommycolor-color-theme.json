@@ -19,7 +19,10 @@
 				"storage.modifier",
 				"keyword.operator.class.php",
 				"keyword.other.rust",
-				"support.type.property-name.media.css"
+				"support.type.property-name.media.css",
+				"keyword.operator.key-value.rust",
+				"keyword.operator.namespace.rust",
+				"keyword.operator.access.dot.rust"
 			],
 			"settings": {
 				"foreground": "#6B7985"
@@ -54,7 +57,8 @@
 				"source.dart",
 				"entity.other.attribute-name.class",
 				"entity.other.attribute-name.id",
-				"entity.name.tag.yaml"
+				"entity.name.tag.yaml",
+				"source.rust"
 			],
 			"settings": {
 				"foreground": "#ccd5da"
@@ -141,7 +145,8 @@
 				"keyword.other.new",
 				"keyword.other.fn.rust",
 				"storage.type.rust",
-				"keyword.declaration.dart"
+				"keyword.declaration.dart",
+				"storage.type.js"
 			],
 			"settings": {
 				"foreground": "#AD8FFB"
