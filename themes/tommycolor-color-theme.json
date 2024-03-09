@@ -103,7 +103,8 @@
 				"keyword.type",
 				"keyword.struct",
 				"support.class.dart",
-				"entity.name.tag"
+				"entity.name.tag",
+				"entity.other.inherited-class.php"
 			],
 			"settings": {
 				"foreground": "#37D7B3"
