@@ -58,7 +58,8 @@
 				"entity.other.attribute-name.class",
 				"entity.other.attribute-name.id",
 				"entity.name.tag.yaml",
-				"source.rust"
+				"source.rust",
+				"meta.function.call.rust"
 			],
 			"settings": {
 				"foreground": "#ccd5da"
