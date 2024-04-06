@@ -5,6 +5,9 @@
 		"editor.foreground": "#eeffff",
 		"editor.findMatchBorder": "#ffc72dc9",
 		"editor.findMatchHighlightBorder": "#ffc72dc9",
+		"scrollbarSlider.background": "#6B7985",
+		"scrollbarSlider.hoverBackground": "#6B7985",
+		"scrollbarSlider.activeBackground": "#6B7985"
 	},
 	"tokenColors": [
 		{
