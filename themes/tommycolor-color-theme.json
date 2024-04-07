@@ -125,7 +125,8 @@
 				"support.function.go",
 				"storage.type.function.arrow",
 				"support.function",
-				"entity.other.attribute-name.pseudo-class.css"
+				"entity.other.attribute-name.pseudo-class.css",
+				"punctuation.separator.question-mark.cs"
 			],
 			"settings": {
 				"foreground": "#3F8BE2"
@@ -152,7 +153,10 @@
 				"keyword.other.fn.rust",
 				"storage.type.rust",
 				"keyword.declaration.dart",
-				"storage.type.js"
+				"storage.type.js",
+				"storage.type.var.cs",
+				"keyword.type.const.cs",
+				"keyword.type.dynamic.cs"
 			],
 			"settings": {
 				"foreground": "#AD8FFB"
