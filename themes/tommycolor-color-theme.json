@@ -154,9 +154,7 @@
 				"storage.type.rust",
 				"keyword.declaration.dart",
 				"storage.type.js",
-				"storage.type.var.cs",
-				"keyword.type.const.cs",
-				"keyword.type.dynamic.cs"
+				"storage.type.var.cs"
 			],
 			"settings": {
 				"foreground": "#AD8FFB"
