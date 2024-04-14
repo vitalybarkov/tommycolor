@@ -126,7 +126,9 @@
 				"storage.type.function.arrow",
 				"support.function",
 				"entity.other.attribute-name.pseudo-class.css",
-				"punctuation.separator.question-mark.cs"
+				"punctuation.separator.question-mark.cs",
+				"storage.type.accessor.get.cs",
+				"storage.type.accessor.set.cs"
 			],
 			"settings": {
 				"foreground": "#3F8BE2"
