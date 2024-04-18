@@ -27,7 +27,8 @@
 				"keyword.operator.namespace.rust",
 				"keyword.operator.access.dot.rust",
 				"entity.name.tag.localname.cs",
-				"entity.other.attribute-name.localname.cs"
+				"entity.other.attribute-name.localname.cs",
+				"string.quoted.double.cs"
 			],
 			"settings": {
 				"foreground": "#6B7985"
@@ -36,8 +37,7 @@
 		{
 			"name": "medium_grays",
 			"scope": [
-				"comment.block.documentation.cs",
-				"string.quoted.double.cs"
+				
 			],
 			"settings": {
 				"foreground": "#a2adb6"
@@ -105,7 +105,8 @@
 				"entity.name.package",
 				"punctuation.definition.entity.html",
 				"constant.other.color.rgb-value.hex.css",
-				"source.dockerfile"
+				"source.dockerfile",
+				"comment.block.documentation.cs"
 			],
 			"settings": {
 				"foreground": "#9D9E86"
