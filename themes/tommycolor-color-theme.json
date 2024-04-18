@@ -26,10 +26,21 @@
 				"keyword.operator.key-value.rust",
 				"keyword.operator.namespace.rust",
 				"keyword.operator.access.dot.rust",
-				"entity.name.tag.localname.cs"
+				"entity.name.tag.localname.cs",
+				"entity.other.attribute-name.localname.cs"
 			],
 			"settings": {
 				"foreground": "#6B7985"
+			}
+		},
+		{
+			"name": "medium_grays",
+			"scope": [
+				"comment.block.documentation.cs",
+				"string.quoted.double.cs"
+			],
+			"settings": {
+				"foreground": "#a2adb6"
 			}
 		},
 		{
