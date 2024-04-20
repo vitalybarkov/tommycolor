@@ -167,7 +167,8 @@
 				"storage.type.rust",
 				"keyword.declaration.dart",
 				"storage.type.js",
-				"storage.type.var.cs"
+				"storage.type.var.cs",
+				"keyword.var.go"
 			],
 			"settings": {
 				"foreground": "#AD8FFB"
