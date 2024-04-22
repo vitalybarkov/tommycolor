@@ -45,7 +45,8 @@
 			"name": "bright_grays",
 			"scope": [
 				"entity.other.attribute-name",
-				"support.type.property-name"
+				"support.type.property-name",
+				"meta.object-literal.key.ts"
 			],
 			"settings": {
 				"foreground": "#bec9d0"
@@ -120,7 +121,10 @@
 				"keyword.struct",
 				"support.class.dart",
 				"entity.name.tag",
-				"entity.other.inherited-class.php"
+				"entity.other.inherited-class.php",
+				"support.type.primitive.ts",
+				"support.type.builtin.ts",
+				"entity.other.inherited-class.ts"
 			],
 			"settings": {
 				"foreground": "#37D7B3"
@@ -168,7 +172,8 @@
 				"keyword.declaration.dart",
 				"storage.type.js",
 				"storage.type.var.cs",
-				"keyword.var.go"
+				"keyword.var.go",
+				"storage.type.ts"
 			],
 			"settings": {
 				"foreground": "#AD8FFB"
