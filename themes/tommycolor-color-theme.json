@@ -172,6 +172,7 @@
 				"keyword.declaration.dart",
 				"storage.type.js",
 				"storage.type.var.cs",
+				"keyword.other.var.cs",
 				"keyword.var.go",
 				"storage.type.ts"
 			],
