@@ -85,7 +85,8 @@
 				"text.html.derivative",
 				"punctuation.definition.entity.html",
 				"text.html",
-				"text.xml"
+				"text.xml",
+				"text.aspnetcorerazor"
 			],
 			"settings": {
 				"foreground": "#ffffff"
