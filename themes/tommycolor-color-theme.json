@@ -29,7 +29,7 @@
 				"entity.name.tag.localname.cs"
 			],
 			"settings": {
-				"foreground": "#6B7985"
+				"foreground": "#657682"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 				"storage.type.accessor.set.cs"
 			],
 			"settings": {
-				"foreground": "#3F8BE2"
+				"foreground": "#3F8BFA"
 			}
 		},
 		{
@@ -178,7 +178,7 @@
 				"storage.type.ts"
 			],
 			"settings": {
-				"foreground": "#AD8FFB"
+				"foreground": "#B08FFB"
 			}
 		}
 	]
