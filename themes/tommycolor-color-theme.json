@@ -73,7 +73,8 @@
 				"entity.other.attribute-name.id",
 				"entity.name.tag.yaml",
 				"source.rust",
-				"meta.function.call.rust"
+				"meta.function.call.rust",
+				"source.dbclient-sql"
 			],
 			"settings": {
 				"foreground": "#ccd5da"
